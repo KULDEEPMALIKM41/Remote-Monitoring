@@ -30,7 +30,7 @@ DEBUG = True
 # ALLOWED_HOSTS = ['167.172.138.187', '159.65.154.37', '127.0.0.1']
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
